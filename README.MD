@@ -7,7 +7,7 @@
 https://spotifycloone.netlify.app/
 
 
-### Kaynaklar
+### `Kaynaklar`
 - API:  https://rapidapi.com/apidojo/api/shazam
 
 
